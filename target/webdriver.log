@@ -1,0 +1,6 @@
+INFO 13:25:11:956 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 13:25:11:973 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/nataliakeegan/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 13:34:18:964 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 13:34:18:983 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/nataliakeegan/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
+INFO 13:39:34:479 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 109.0.5414.74 (since Google Chrome 109 is installed in your machine)
+INFO 13:39:34:497 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/nataliakeegan/.m2/repository/webdriver/chromedriver/mac64/109.0.5414.74/chromedriver
